@@ -64,4 +64,3 @@ Simple linear regression is when one independent variable is used to estimate a 
 
 #### Predicting the co2 emission of a car
 - In this lab, we learn how to use scikit-learn library to implement Multiple linear regression. We again use the Carbon dioxide emission dataset to build a model, Evaluate the model, and finally use model to predict unknown value.
-## End of Module Review & Evaluation

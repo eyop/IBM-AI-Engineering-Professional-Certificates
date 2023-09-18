@@ -39,4 +39,4 @@ multi-class classification techniques that Lab: Multiclass Predictioncan convert
 ### Lab: Multiclass Prediction
 
 In this notebook, you will learn how to convert a linear classifier into a multclass classifier. 
-## End of Module Review & Evaluation
+
