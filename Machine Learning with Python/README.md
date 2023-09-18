@@ -75,8 +75,6 @@ The final project within this course is the building of a classifier to predict 
 - Regression
 - Classification
 - Hierarchical Clustering
-## 🏆 Certificate
-![image](https://user-images.githubusercontent.com/112087783/230169402-1ab50e32-593d-4573-9066-b37891b8a1c5.png)![image](https://user-images.githubusercontent.com/112087783/230169448-d6fec49a-01d2-4c87-9175-966dffe746b1.png)
 
 
 
