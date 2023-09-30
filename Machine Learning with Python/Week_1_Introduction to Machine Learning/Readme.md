@@ -5,6 +5,7 @@
 Machine learning (ML) is the practice of teaching a computer to learn and it is a type of artificial intelligence that extract patterns out of raw data by using an algorithm or method. 
 The main focus of ML is to allow "computer systems learn from experience without being explicitly programmed or human intervention".
 
+
 #### The difference between Artificial Intilligence, Machine Learning and Deep Learning
 
 “What is the difference between these buzzwords that we keep hearing these days, such as Artificial intelligence (or AI), Machine Learning and Deep Learning?”

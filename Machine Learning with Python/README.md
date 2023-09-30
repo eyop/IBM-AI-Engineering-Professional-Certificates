@@ -5,6 +5,7 @@ Machine learning (ML) is the practice of teaching a computer to learn and it is 
 This course provides a gentle introduction to ML and what it is, with topics like supervised vs. unsupervised learning, classification, regression, and clustering technique with Python libraries like SciPy and scikit-learn. It then covers topics such as model evaluation.
 
 The final project within this course is the building of a classifier to predict whether a loan case will be paid off. It is a classification problem, and KNN, Decision Tree, SVM, and Logistic Regression are all used to determine the best algorithm to use.
+
 ## 📑 Course Syllabus
 ## 📅 [Week-1](https://github.com/eyop/IBM-AI-Engineering-Professional-Certificates/tree/main/Machine%20Learning%20with%20Python/Week_1_Introduction%20to%20Machine%20Learning)
 ### Introduction to Machine Learning

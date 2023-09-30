@@ -9,6 +9,7 @@ Classification Algorithm in Machine Learning
 - Logistic regression 
 - Neural networks, and Support vector machines.
 - K-Nearest Neighbours
+
 ## K-Nearest Neighbors 
 ### Introduction to Classification
 
